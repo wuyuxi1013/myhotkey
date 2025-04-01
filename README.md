@@ -7,4 +7,4 @@
 - Hyper大部分行为类似于Windows的Ctrl、MacOS的Command；More的来源比较复杂，主要有Windows的Win键、Ctrl+Shift键、MacOS的Command键，也就是说是一个比较个性化的键；
 
 示意图：
-![](https://www.github.com/wuyuxi1013/myhotkey/main/position.png)
+![](https://github.com/wuyuxi1013/myhotkey/blob/main/position.png)
